@@ -4,7 +4,7 @@ title:  "And I wonder"
 date:   2024-11-23
 categories: jekyll update
 ---
-I ask my mother to pause the clock,
+<pre>I ask my mother to pause the clock,
 I hate how it sounds: tick-tock, tick-tock.
 But she looks at me and says,
 “We don’t own a clock, my dear,” and I wonder
