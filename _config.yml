@@ -18,9 +18,9 @@ hya# Welcome to Jekyll!
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to my Diary
-email: subekshya18in@gmail.com
-description:  A collection of my thoughts, poems, and life reflections. >- # this means to ignore newlines until "baseurl:"
+title: "Welcome to my Diary"
+email: "subekshya18in@gmail.com"
+description:  "A collection of my thoughts, poems, and life reflections." # this means to ignore newlines until "baseurl:"
 
 baseurl: "S-Dani # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
